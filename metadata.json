@@ -1,0 +1,6 @@
+{
+  "name": "Campus Parking Hub",
+  "description": "Smart real-time university campus parking slot supervisor, booking recorder, and verification console with bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
